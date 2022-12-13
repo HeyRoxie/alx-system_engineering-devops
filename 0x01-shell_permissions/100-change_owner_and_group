@@ -1,2 +1,2 @@
 #!/bin/bash
-chown Vincent:Staff *
+chown Vincent:Staff 100-change_owner_and_group
