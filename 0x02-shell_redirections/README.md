@@ -1,1 +1,1 @@
- script that displays a confused smiley
+(2)Display the content
